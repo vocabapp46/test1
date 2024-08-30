@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Motivation Beast App</title>
+</head>
+
+<body>
+  <section id="header">
+    <div class="header container">
+      <div class="nav-bar">
+        <div class="brand">
+          <a href="#hero">
+            <h1>Motivation Beast App</h1>
+          </a>
+        </div>
+        <div class="nav-list">
+          <div class="hamburger">
+            <div class="bar"></div>
+          </div>
+          <ul>
+           <!  -->
+           <!      href="contactus.html" >Contact us       -->
+            <li><a href="#services" >Download Soon</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="hero">
+    <div class="hero container">
+      <div>
+        <h1 style="color:white;"> Motivation Beast App <span></span></h1>
+        <p style="font-size:20px; color:white;">Perfect Companion for Every Step of Your Life Journey</p>
+  <a href="#projects" type="button" class="cta" style="font-size: 1.5rem; padding: 9px 15px;"> Coming Soon on Apps Store & Google Play Store </a>
+  
+      </div>
+    </div>
+  </section>
+</body>
+</html>
